@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: WizFish Gaming
-image: /img/jumbotron.jpg
+image: /img/products-grid2.jpg
 heading: Running the leanest YT biz in the gaming industry
 subheading: Your Source For Soulful Game Reviews
 mainpitch:
