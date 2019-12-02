@@ -1,18 +1,21 @@
 ---
 templateKey: index-page
 title: WizFish Gaming
-image: /img/products-grid2.jpg
-heading: Running the leanest YT biz in the gaming industry
-subheading: Your Source For Soulful Game Reviews
+image: /img/newer_wizfish_banner_patreon.png
+heading: Check out my YouTube
+subheading: a love and passion for reviewing video games
 mainpitch:
-  title: We Don't Use Web Servers So You Can't Hack Us
+  title: '"I started off on YouTube'
   description: >-
-    Seriously, why would you choose to increase your attack surface when you can
-    do the opposite and go with serverless websites?
-description: >-
-  Donations to support email and DNS are always accepted. We're proud to run a
-  super-lean business on managed web technology-- it gives Casey more time to
-  perfect the reviews.
+    without a clue of what sort of content was right for me, and eventually
+    found a love and passion for reviewing video games, so I'm trying to focus
+    mostly on that from now on. 
+
+    I've left the old content on the channel, so that it can be used to
+    incriminate me later.
+
+    Thanks for stopping by!"
+description: 'https://www.youtube.com/user/WizFishGaming'
 intro:
   blurbs:
     - image: /img/coffee.png
