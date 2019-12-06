@@ -12,7 +12,7 @@ const TemplateWrapper = ({ children }) => {
     <div>
       <Helmet>
         <html lang="en" />
-        <title>{title}</title>
+        <title className="test-header">{title}</title>
         <meta name="description" content={description} />
 
         <link
@@ -36,7 +36,7 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="mask-icon"
           href={`${withPrefix('/')}img/safari-pinned-tab.svg`}
-          color="#ff4400"
+          color="#d27"
         />
         <meta name="theme-color" content="#fff" />
 
